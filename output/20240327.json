@@ -1,0 +1,5 @@
+{
+    "content": "{\"aliveType\":1,\"depNameConcat\":\"BCA\",\"departmentNames\":[\"BCA\"],\"deviceKey\":\"84E0F4256A93527A\",\"deviceName\":\"UFACE8 TEMP\",\"empNo\":\"0008\",\"id\":4524542,\"name\":\"Joe Tan\",\"orgId\":796,\"passTimeType\":1,\"permissionTimeType\":1,\"personGuid\":null,\"personId\":24678,\"personType\":1,\"photoUrl\":\"https://uniubi-aiot.s3-eu-west-1.amazonaws.com/pkg365/2005/20050001001272/012814.014/img/15ca631c-a5ea-4f0d-a221-6abcfccb7550.station\",\"recMode\":1,\"recStatus\":null,\"recType\":1,\"showTime\":\"2024-03-27 01:28:07\",\"temperature\":\"\",\"temperatureState\":3,\"temperatureUnit\":1,\"type\":1}",
+    "msgId": "41b771bfb74e4542bb97d405a443c141",
+    "type": 1
+},

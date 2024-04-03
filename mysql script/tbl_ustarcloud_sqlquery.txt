@@ -1,0 +1,24 @@
+use ustarcloud;
+CREATE TABLE `tbl_ustarcloud` (
+	`alive_type` text,
+	`dep_name_concat` text,
+	`device_key` text,
+	`device_name` text,
+	`emp_no` text,
+	`id_` text,
+	`name` text,
+	`org_id` text,
+	`pass_time_type` text,
+        `permission_time_type` text,
+	`person_id` text,
+	`person_type` text,
+	`photo_url` text,
+	`rec_mode` text,
+	`rec_status` text,
+	`rec_type` text,
+	`show_time` text,
+	`temperature` text,
+	`temperature_state` text,
+	`temperature_unit` text,
+	`type_` text
+);
